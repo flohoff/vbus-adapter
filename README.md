@@ -9,3 +9,4 @@ It allows for connecting additional Sensors like DHT22 or DS1820
 
 Currently the project is untested.
 
+![KiCad 9 Board view](images/boardview.jpg)
