@@ -8249,7 +8249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x3.9"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10"
 			(at 157.1752 43.18 0)
 			(effects
 				(font
@@ -8268,6 +8268,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 156.21 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Untitled Field" ""
 			(at 156.21 39.37 0)
 			(effects
 				(font
