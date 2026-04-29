@@ -6430,7 +6430,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 2.55 0.25 180)
+			(at 3.3 0 90)
 			(layer "F.SilkS")
 			(uuid "de8862f9-d31c-46c7-a328-c6f7226551ca")
 			(effects
@@ -7886,7 +7886,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "JP2"
-			(at 1 -4.75 0)
+			(at 1.3 -4.575 0)
 			(layer "F.SilkS")
 			(uuid "dd1e44e8-faad-4e7c-a968-e28f3d44faf8")
 			(effects
@@ -7897,7 +7897,7 @@
 			)
 		)
 		(property "Value" "VBUS R/W"
-			(at -2.4 1.275 0)
+			(at -0.2 -4.575 0)
 			(layer "F.SilkS")
 			(uuid "f697f505-d806-416a-a182-1b487b7ebf5f")
 			(effects
@@ -9423,7 +9423,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D2"
-			(at -4.2375 -0.79 0)
+			(at -2.9125 -0.15 0)
 			(layer "F.SilkS")
 			(uuid "2dd75548-9ba3-4cf4-ac76-7b6da51e09dc")
 			(effects
@@ -11371,7 +11371,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D6"
-			(at 1.775 -1.75 180)
+			(at 0 3.25 270)
 			(layer "F.SilkS")
 			(uuid "e4d7f8a1-b307-405d-b6ca-dcc08cdafd1c")
 			(effects
@@ -12340,7 +12340,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 2.5 0 180)
+			(at 2.75 0 270)
 			(layer "F.SilkS")
 			(uuid "1ebeaf73-58a2-46aa-a1a6-ec3a2fdd91d7")
 			(effects
