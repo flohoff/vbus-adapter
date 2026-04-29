@@ -14474,7 +14474,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "GND RX TX RTS DTR"
+	(gr_text "GND RX TX DTR RTS\n"
 		(at 171 105.75 0)
 		(layer "F.SilkS")
 		(uuid "ae8d14a0-6d76-49b5-8b53-eff034907492")
